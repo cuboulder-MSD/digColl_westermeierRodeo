@@ -4,3 +4,5 @@ Clifford P. Westermeier (1910-1968) and Therese S. Westermeier (1902-1986), both
 
 
 This Work has been digitized in a public-private partnership. As part of this partnership, the partners have agreed to limit commercial uses of this digital representation of the Work by third parties. You can, without permission, copy, modify, distribute, display, or perform the Item, for non-commercial uses. For any other permissible uses, please review the terms and conditions of the organization that has made the Item available. https://rightsstatements.org/page/NoC-NC/1.0/?language=en
+
+Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
