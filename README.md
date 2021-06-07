@@ -37,18 +37,20 @@ Additional notes or description of the content of the item. May contain cataloge
 ### Subject Topic
 A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: Rodeos; Cowgirls; Rodeo performers  
 ### Identifier ARK
-Controlled, stable link to the resource. Example:
+Controlled, stable link to the resource. 
+
+Example: https://ark.colorado.edu/ark:/47540/gf5p7m25k98z 
 ### Identifier
-Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. Example:
+Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
 
-
+Example: narv_westermeier_44_Book2_AT.tif
 ### Physical Location
-The institution or repository that holds the resource or where it is available:
+The institution or repository that holds the resource or where it is available: University of Colorado Boulder. Special Collections, Archives & Preservation 
 
 ### Access Condition
 Information about restrictions imposed on access to a resource.
 
-Statement in collection:
+Statement in collection: The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States. https://rightsstatements.org/page/NoC-US/1.0/?language=en 
 
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 
