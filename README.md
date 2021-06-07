@@ -14,7 +14,7 @@ Name of the collection: Clifford P. and Therese S. Westermeier Collection
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 
 ### Name
-Individual(s) or corporate entities that created or are associated with the work. Common names seen in the collection include: Doubleday, R.R.; photographer | Acord, Art | performer | Devere; photographer    
+Individual(s) or corporate entities that created or are associated with the work. Common names seen in the collection include: Doubleday, R.R.; photographer | Acord, Art; performer | Devere; photographer    
 
 ### Resource Type
 A term that specifies the characteristics and general type of content of the resource. Type terms used in this collection include: still image 
