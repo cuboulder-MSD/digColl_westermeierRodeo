@@ -35,7 +35,7 @@ The date of creation of the resource. Date ranges include: 1907-1948
 Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
 
 ### Subject Topic
-A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include:
+A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: Rodeos; Cowgirls; Rodeo performers  
 ### Identifier ARK
 Controlled, stable link to the resource. Example:
 ### Identifier
