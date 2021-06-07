@@ -54,6 +54,8 @@ Statement in collection: The organization that has made the Item available belie
 
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 
+## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Clifford P. and Therese S. Westermeier Collection](https://archives.colorado.edu/repositories/2/resources/1979).
 
 ## Notes
 This Work has been digitized in a public-private partnership. As part of this partnership, the partners have agreed to limit commercial uses of this digital representation of the Work by third parties. You can, without permission, copy, modify, distribute, display, or perform the Item, for non-commercial uses. For any other permissible uses, please review the terms and conditions of the organization that has made the Item available. https://rightsstatements.org/page/NoC-NC/1.0/?language=en
